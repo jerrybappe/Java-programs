@@ -1,0 +1,3 @@
+[submodule "edap10-labs"]
+	path = edap10-labs
+	url = https://gitlab.com/je5427za-s/edap10-labs.git
